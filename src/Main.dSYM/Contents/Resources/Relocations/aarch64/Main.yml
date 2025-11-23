@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/layan/Desktop/CS330-Project/src/Main'
+relocations:     []
+...
