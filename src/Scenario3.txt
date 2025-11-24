@@ -1,0 +1,6 @@
+S 2
+L 2
+ADD 3 "Book3" "Summary of Book 3"
+READ 3
+READ 1
+REMOVE 1
